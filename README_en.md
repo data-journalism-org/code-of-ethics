@@ -1,5 +1,9 @@
 # Code of Ethics
 
+![SPJ Code of Ethics](ethicscode.png)
+
+[Original document (PDF)](https://www.spj.org/pdf/ethicscode.pdf)
+
 ## Preamble
 
 Members of the Society of Professional Journalists believe that public enlightenment is the forerunner of justice and the foundation of democracy.
