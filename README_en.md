@@ -2,7 +2,9 @@
 
 ![SPJ Code of Ethics](ethicscode.png)
 
-[Original document (PDF)](https://www.spj.org/pdf/ethicscode.pdf)
+- [Original document (PDF)](https://www.spj.org/pdf/ethicscode.pdf)
+- [Society of Professional Journalists](https://www.spj.org/)
+
 
 ## Preamble
 

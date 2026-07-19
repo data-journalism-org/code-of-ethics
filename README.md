@@ -2,7 +2,8 @@
 
 ![SPJ倫理綱領の原文](ethicscode.png)
 
-[オリジナル文書（PDF）](https://www.spj.org/pdf/ethicscode.pdf)
+- [オリジナル文書（PDF）](https://www.spj.org/pdf/ethicscode.pdf)
+- [Society of Professional Journalists](https://www.spj.org/)
 
 ## 前文
 
